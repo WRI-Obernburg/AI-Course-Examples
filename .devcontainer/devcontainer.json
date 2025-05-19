@@ -14,5 +14,4 @@
     }
   },
   "postCreateCommand": "pip install --upgrade pip && pip install numpy matplotlib tensorflow-cpu gensim sentence_transformers tf-keras torch --index-url https://download.pytorch.org/whl/cpu",
-  "workspaceFolder": "/workspace"
 }
