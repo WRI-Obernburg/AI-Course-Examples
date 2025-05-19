@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tensorflow-cpu
+gensim
+sentence_transformers
+tf-keras
+torch -f https://download.pytorch.org/whl/cpu
